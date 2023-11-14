@@ -2,5 +2,5 @@
 
 ## 👾 Welcome!
 
-* [About Me](README.md)
+* [Hello, World!](README.md)
 * [License](<README (1).md>)

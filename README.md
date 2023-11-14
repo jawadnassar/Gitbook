@@ -4,7 +4,7 @@ description: Page Description test lorem ipsum
 
 # Welcome
 
-Lorem Ipsum Test
+Lorem Ipsum Test 2
 
 {% swagger method="get" path="" baseUrl="" summary="" %}
 {% swagger-description %}
@@ -12,7 +12,7 @@ Lorem Ipsum Test
 {% endswagger-description %}
 {% endswagger %}
 
-:tada: test
+:tada: test 3
 
 {% hint style="info" %}
 test

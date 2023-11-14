@@ -11,6 +11,3 @@ This book contains random tech notes, documenting my learning journey to pivot f
 * [Mastodon](https://infosec.exchange/@jawad)
 * [LinkedIn](https://www.linkedin.com/in/jawadnassar/)
 * Email: jawad \[at] jawad \[dot] ca
-
-#### &#x20;<a href="#disclaimer" id="disclaimer"></a>
-

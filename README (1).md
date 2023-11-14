@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # License
 
 Copyright © Jawad.ca ; Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on this site is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). If you want to use it with commercial purposes, please contact contact me.

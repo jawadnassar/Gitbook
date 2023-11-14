@@ -1,4 +1,7 @@
 # Table of contents
 
-* [👾 Welcome](README.md)
-  * [About](welcome/about.md)
+## 👾 Welcome!
+
+* [About Me](welcome/about.md)
+* [License](README.md)
+

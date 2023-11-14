@@ -1,9 +1,5 @@
 # License
 
-This book contains random tech notes, documenting my learning journey to pivot further into application security. If you find something inaccurate or that could be fixed, please open a [pull request](https://github.com/jawadnassar/Gitbook/pulls).
-
-#### License
-
 Copyright © Jawad.ca ; Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on this site is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). If you want to use it with commercial purposes, please contact contact me.
 
 {% hint style="danger" %}

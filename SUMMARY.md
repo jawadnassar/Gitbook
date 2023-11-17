@@ -3,4 +3,4 @@
 ## 👾 Welcome!
 
 * [Hello, World!](README.md)
-* [License](<README (1).md>)
+* [License](LICENSE.md)

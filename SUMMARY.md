@@ -7,8 +7,7 @@
 
 ## 👨🏫 Pentesting
 
-***
-
-* [Security Standards](security-standards/README.md)
-  * [The CIA Triad](security-standards/the-cia-triad.md)
-  * [Standard & Frameworks](security-standards/standard-and-frameworks.md)
+* [Security Standards](pentesting/security-standards/README.md)
+  * [The CIA Triad](pentesting/security-standards/the-cia-triad.md)
+  * [Standard & Frameworks](pentesting/security-standards/standard-and-frameworks.md)
+* [Report Writing](pentesting/report-writing.md)

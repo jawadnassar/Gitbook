@@ -14,7 +14,7 @@ layout:
 
 # License
 
-Copyright © [**Jawad.ca**](https://jawad.ca) ; Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on this site is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). If you want to use it with commercial purposes, please contact me.
+Copyright © [**Jawad.ca**](https://jawad.ca) ; Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on this site is licensed under the [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).&#x20;
 
 {% hint style="danger" %}
 Disclaimer
@@ -25,6 +25,3 @@ Disclaimer
 * It is essential to refrain from conducting any pentesting activities on applications, devices, or networks that you do not own or lack permission to access.
 * The postings on this site are my own and don’t necessarily represent my employer’s positions, strategies or opinions.
 {% endhint %}
-
-
-

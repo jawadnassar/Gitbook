@@ -17,6 +17,7 @@
   * [DNSenum](pentesting/information-gathering/dnsenum.md)
   * [nslookup](pentesting/information-gathering/nslookup.md)
   * [Search Engine Hacking](pentesting/information-gathering/search-engine-hacking.md)
+  * [Source Control Hacking](pentesting/information-gathering/source-control-hacking.md)
   * [Qualys SSL Server Test](pentesting/information-gathering/qualys-ssl-server-test.md)
   * [Security Headers](pentesting/information-gathering/security-headers.md)
   * [Shodan](pentesting/information-gathering/shodan.md)

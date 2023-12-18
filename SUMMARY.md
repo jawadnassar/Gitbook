@@ -14,4 +14,7 @@
 * [Report Writing Tools](pentesting/report-writing-tools.md)
 * [Information Gathering](pentesting/information-gathering/README.md)
   * [Whois](pentesting/information-gathering/whois.md)
+  * [DNSRecon](pentesting/information-gathering/dnsrecon.md)
+  * [DNSenum](pentesting/information-gathering/dnsenum.md)
+  * [nslookup](pentesting/information-gathering/nslookup.md)
   * [Search Engine Hacking](pentesting/information-gathering/search-engine-hacking.md)

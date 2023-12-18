@@ -20,6 +20,7 @@
   * [Nmap](pentesting/information-gathering/nmap/README.md)
     * [Nmap Scripting Engine](pentesting/information-gathering/nmap/nmap-scripting-engine.md)
     * [Test-NetConnection](pentesting/information-gathering/nmap/test-netconnection.md)
+    * [Grep](pentesting/information-gathering/nmap/grep.md)
   * [Search Engine Hacking](pentesting/information-gathering/search-engine-hacking.md)
   * [Source Control Hacking](pentesting/information-gathering/source-control-hacking.md)
   * [Qualys SSL Server Test](pentesting/information-gathering/qualys-ssl-server-test.md)

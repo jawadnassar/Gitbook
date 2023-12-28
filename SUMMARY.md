@@ -33,6 +33,7 @@
 * [Web Applications](pentesting/web-applications/README.md)
   * [XSS](pentesting/web-applications/xss.md)
   * [Wappalyzer](pentesting/web-applications/wappalyzer.md)
+  * [Reverse Shell via Wordpress plugin](pentesting/web-applications/reverse-shell-via-wordpress-plugin.md)
 * [Linux](pentesting/linux/README.md)
   * [curl](pentesting/linux/curl.md)
   * [openvpn](pentesting/linux/openvpn.md)

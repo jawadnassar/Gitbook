@@ -39,7 +39,6 @@
   * [Remote Desktop](pentesting/linux/remote-desktop.md)
 * [Report Writing Tools](pentesting/report-writing-tools.md)
 
-***
+## 🚩 CTF
 
-* [🚩 CTF](ctf.md)
-* [Page](page.md)
+* [PortSwigger](ctf/portswigger.md)

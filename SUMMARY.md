@@ -31,6 +31,7 @@
   * [Shodan](pentesting/information-gathering/shodan.md)
   * [Gobuster](pentesting/information-gathering/gobuster.md)
 * [Web Applications](pentesting/web-applications/README.md)
+  * [Burp Suite: Setting Foxyproxy](pentesting/web-applications/burp-suite-setting-foxyproxy.md)
   * [XSS](pentesting/web-applications/xss.md)
   * [Wappalyzer](pentesting/web-applications/wappalyzer.md)
   * [Reverse Shell via Wordpress plugin](pentesting/web-applications/reverse-shell-via-wordpress-plugin.md)

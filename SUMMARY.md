@@ -42,4 +42,6 @@
 
 ## 🚩 CTF
 
-* [PortSwigger](ctf/portswigger.md)
+* [PortSwigger](ctf/portswigger/README.md)
+  * [SQL Injection](ctf/portswigger/sql-injection/README.md)
+    * [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](ctf/portswigger/sql-injection/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data.md)

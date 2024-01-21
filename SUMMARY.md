@@ -37,6 +37,7 @@
   * [Directory Traversal](pentesting/web-applications/directory-traversal.md)
   * [LFI](pentesting/web-applications/lfi/README.md)
     * [PHP Wrappers](pentesting/web-applications/lfi/php-wrappers.md)
+    * [RFI](pentesting/web-applications/lfi/rfi.md)
   * [Reverse Shell](pentesting/web-applications/reverse-shell.md)
 * [Linux](pentesting/linux/README.md)
   * [curl](pentesting/linux/curl.md)

@@ -41,6 +41,7 @@
   * [Reverse Shell](pentesting/web-applications/reverse-shell.md)
   * [File Upload](pentesting/web-applications/file-upload.md)
 * [Linux](pentesting/linux/README.md)
+  * [Symbols](pentesting/linux/symbols.md)
   * [curl](pentesting/linux/curl.md)
   * [openvpn](pentesting/linux/openvpn.md)
   * [Remote Desktop](pentesting/linux/remote-desktop.md)

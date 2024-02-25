@@ -42,6 +42,7 @@
   * [File Upload](pentesting/web-applications/file-upload.md)
 * [Linux](pentesting/linux/README.md)
   * [Symbols](pentesting/linux/symbols.md)
+  * [cat](pentesting/linux/cat.md)
   * [curl](pentesting/linux/curl.md)
   * [openvpn](pentesting/linux/openvpn.md)
   * [Remote Desktop](pentesting/linux/remote-desktop.md)

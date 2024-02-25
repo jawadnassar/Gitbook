@@ -24,4 +24,3 @@ Hi, I’m Jawad! I’ve been immersed in software and computers for most of my l
 * [Mastodon](https://infosec.exchange/@jawad)
 * [LinkedIn](https://www.linkedin.com/in/jawadnassar/)
 * **Email:** jawad \[at] jawad \[dot] ca
-* Signal, Protonmail, ~~Matrix or PGP keys~~ are shared upon request

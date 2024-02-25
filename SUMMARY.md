@@ -6,7 +6,7 @@
 * [whoami](welcome/whoami.md)
 * [License](LICENSE.md)
 
-## 👨🏫 Pentesting
+## 👨‍🏫 Pentesting
 
 * [Security Standards](pentesting/security-standards/README.md)
   * [The CIA Triad](pentesting/security-standards/the-cia-triad.md)

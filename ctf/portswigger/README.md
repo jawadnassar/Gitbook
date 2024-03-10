@@ -20,4 +20,8 @@ This section contains write-ups of different [PortSwigger Web Security Academy](
 
 ![](https://jawad.ca/images/webapphandbook2ndedition.png)
 
-In addition, I’ll be following the video series by [Rana Khalil](https://www.youtube.com/c/RanaKhalil101/playlists) on YouTube. I’m a fan of her work, and I’m sure it will be very helpful to me. Initially, my main focus will be placed on SQL injection, and upcoming blog posts will include PortSwigger lab write-ups.
+In addition, I’ll be following the video series by [Rana Khalil](https://www.youtube.com/c/RanaKhalil101/playlists) on YouTube. I’m a fan of her work, and I’m sure it will be very helpful to me.&#x20;
+
+{% hint style="info" %}
+If you found Rana's YouTube channel helpful and enjoyable, consider supporting her by checking out her [paid courses](https://ranakhalil.com/courses/).
+{% endhint %}

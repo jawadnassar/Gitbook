@@ -54,4 +54,5 @@
 
 * [PortSwigger](ctf/portswigger/README.md)
   * [SQL Injection](ctf/portswigger/sql-injection/README.md)
-    * [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](ctf/portswigger/sql-injection/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data.md)
+    * [WHERE clause allowing retrieval of hidden data](ctf/portswigger/sql-injection/where-clause-allowing-retrieval-of-hidden-data.md)
+    * [Allowing login bypass](ctf/portswigger/sql-injection/allowing-login-bypass.md)

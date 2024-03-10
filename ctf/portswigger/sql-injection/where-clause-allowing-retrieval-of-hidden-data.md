@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+# WHERE clause allowing retrieval of hidden data
 
 ![](https://jawad.ca/images/sqli-lab01/sqli-lab1-4.png)
 
@@ -124,9 +124,11 @@ else:
 
 To test our script with the Lab’s temporary URL and the payload we initially tested (`' OR 1=1--`), you can use the following command:
 
+{% code overflow="wrap" %}
 ```powershell
 python3 sqli-lab01.py https://0a9d00e603476b2480e1766400eb00da.web-security-academy.net "' or 1=1--"
 ```
+{% endcode %}
 
 et voilà! [Little bobby tables](https://xkcd.com/327/) would be very happy :-)
 

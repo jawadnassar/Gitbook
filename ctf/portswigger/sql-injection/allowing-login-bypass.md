@@ -30,7 +30,6 @@ Let’s script the solution in Python.
 
 It’s a `POST` request that expects three parameters: `csrf`, `username`, and `password`.
 
-{% code overflow="wrap" %}
 ```python
 import requests  
 import sys  
@@ -68,13 +67,12 @@ else:
 	print("Didn't work.")
 	
 ```
-{% endcode %}
 
 \
 Testing the Python script:
 
 {% code overflow="wrap" %}
-```python
+```powershell
 > python3 sqli-lab02.py "https://0ab000eb0409a6428036c6eb00f500b7.web-security-academy.net/login" "administrator'--"
 
 ```

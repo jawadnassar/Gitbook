@@ -49,6 +49,7 @@
 * [MacOS](pentesting/macos/README.md)
   * [Enhancing Your MacOS Terminal Experience](pentesting/macos/enhancing-your-macos-terminal-experience.md)
 * [Report Writing Tools](pentesting/report-writing-tools.md)
+* [SOC and EDRs](pentesting/soc-and-edrs.md)
 
 ## 🚩 CTF
 
@@ -56,3 +57,8 @@
   * [SQL Injection](ctf/portswigger/sql-injection/README.md)
     * [WHERE clause allowing retrieval of hidden data](ctf/portswigger/sql-injection/where-clause-allowing-retrieval-of-hidden-data.md)
     * [Allowing login bypass](ctf/portswigger/sql-injection/allowing-login-bypass.md)
+    * [UNION attack, determining the number of columns returned by the query](ctf/portswigger/sql-injection/union-attack-determining-the-number-of-columns-returned-by-the-query.md)
+    * [UNION attack, finding a column containing text](ctf/portswigger/sql-injection/union-attack-finding-a-column-containing-text.md)
+    * [UNION attack, retrieving data from other tables](ctf/portswigger/sql-injection/union-attack-retrieving-data-from-other-tables.md)
+    * [UNION attack, retrieving multiple values in a single column](ctf/portswigger/sql-injection/union-attack-retrieving-multiple-values-in-a-single-column.md)
+    * [Querying the database type and version on Oracle](ctf/portswigger/sql-injection/querying-the-database-type-and-version-on-oracle.md)

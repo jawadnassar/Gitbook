@@ -46,6 +46,7 @@
   * [curl](pentesting/linux/curl.md)
   * [openvpn](pentesting/linux/openvpn.md)
   * [Remote Desktop](pentesting/linux/remote-desktop.md)
+  * [Tmux](pentesting/linux/tmux.md)
 * [MacOS](pentesting/macos/README.md)
   * [Enhancing Your MacOS Terminal Experience](pentesting/macos/enhancing-your-macos-terminal-experience.md)
 * [Report Writing Tools](pentesting/report-writing-tools.md)

@@ -44,3 +44,9 @@ During social engineering assessments, Canarytokens can help gauge an individual
 
 **Step 3**: Monitor for alerts and assess how long it takes for the security team to respond and what actions they take.
 
+
+
+#### Similar useful tools:
+
+* [https://grabify.link/](https://grabify.link/)
+* [https://github.com/fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)

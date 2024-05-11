@@ -58,6 +58,7 @@
   * [cat](infosec/linux/cat.md)
   * [curl](infosec/linux/curl.md)
   * [openvpn](infosec/linux/openvpn.md)
+  * [tcpdump](infosec/linux/tcpdump.md)
   * [Remote Desktop](infosec/linux/remote-desktop.md)
   * [Tmux](infosec/linux/tmux.md)
 * [Windows](infosec/windows.md)

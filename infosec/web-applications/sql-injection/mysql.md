@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1662026911591-335639b11db6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxteXNxbHxlbnwwfHx8fDE3MTU0NTU2ODV8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # MySQL
 
 In an SQL injection scenario using `SELECT INTO OUTFILE`, an attacker might exploit the vulnerability to upload a webshell onto the server. A webshell is a script that can be accessed via a web browser and allows the attacker to execute server commands, effectively giving them control over the server.

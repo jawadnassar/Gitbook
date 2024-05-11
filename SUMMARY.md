@@ -25,7 +25,7 @@
   * [Server Message Block (SMB)](infosec/information-gathering/server-message-block-smb.md)
   * [SNMP](infosec/information-gathering/snmp.md)
   * [SMTP](infosec/information-gathering/smtp.md)
-  * [exiftool](infosec/information-gathering/exiftool.md)
+  * [ExifTool](infosec/information-gathering/exiftool.md)
   * [Search Engine Hacking](infosec/information-gathering/search-engine-hacking.md)
   * [Source Control Hacking](infosec/information-gathering/source-control-hacking.md)
   * [Nessus](infosec/information-gathering/nessus.md)

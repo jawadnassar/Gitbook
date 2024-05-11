@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1517486430290-35657bdcef51?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxlbGVwaGFudHMlMjB8ZW58MHx8fHwxNzE1NDU1NzIyfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # PostgreSQL
 
 To execute system commands on Linux or Windows using PostgreSQL, you can leverage the `PROGRAM` parameter in conjunction with the `COPY` command. Here's a step-by-step explanation of how to set up and use this method:

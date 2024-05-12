@@ -52,7 +52,7 @@
   * [SQL Injection](infosec/web-applications/sql-injection.md)
     * [Schemas](infosec/web-applications/sql-injection/schemas.md)
     * [SQLmap](infosec/web-applications/sql-injection/sqlmap.md)
-    * [xp\_cmdshell](infosec/web-applications/sql-injection/xp\_cmdshell.md)
+    * [MSSQL](infosec/web-applications/sql-injection/mssql.md)
     * [MySQL](infosec/web-applications/sql-injection/mysql.md)
     * [PostgreSQL](infosec/web-applications/sql-injection/postgresql.md)
 * [OS](infosec/os/README.md)

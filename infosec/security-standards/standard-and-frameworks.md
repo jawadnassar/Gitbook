@@ -2,7 +2,7 @@
 coverY: 0
 layout:
   cover:
-    visible: false
+    visible: true
     size: full
   title:
     visible: true

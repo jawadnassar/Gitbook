@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Report Writing
+# Report Writing Tools
 
 Note-taking is one of the most crucial skills for a pentester; at the end of the day, this is what you're being paid to deliver.
 
@@ -32,36 +32,47 @@ I personally have a mix of [GitBook](https://www.gitbook.com/), [Obsidian](https
 
 Here's a breakdown of some note-taking tool/platforms you can use:
 
-1. [**Obsidian**](https://obsidian.md/)**:**
-   * Features a graph view for visualizing relationships between notes.
-   * Markdown-based, with support for backlinks and bi-directional linking.
-   * Local storage allows complete control over data.
-   * Possibility to sync with GitHub using plugins.
-2. [**Notion**](https://www.notion.so/)**:**
-   * All-in-one workspace with support for notes, databases, tasks, and collaboration.
-   * Integrates databases and rich media, providing a flexible and customizable structure.
-   * Suitable for both personal and team use.
-   * Hosted on the cloud and not end-to-end encrypted.
-   * Requires internet connectivity.
-3. [**OneNote**](https://www.microsoft.com/en-ca/microsoft-365/onenote/digital-note-taking-app)**:**
-   * Microsoft's digital note-taking application.
-   * Supports handwritten notes, images, and various formatting options.
-   * Integrates with the Microsoft Office suite.
-   * Is not optimal for embedding code snippets and code highlights
-4. [**CherryTree**](https://github.com/giuspen/cherrytree)**:**
-   * Hierarchical note-taking application with rich text and syntax highlighting.
-   * Features a node structure for organizing information.
-   * Allows exporting to various formats including HTML and PDF.
-   * open source and exists by default on kali linux
-   * Risk of file corruption, as reported by many users.
-5. [**GitBook**](https://www.gitbook.com/)**:**
-   * Initially designed for documentation and book writing.
-   * Currently powering this website :sunglasses:
-   * Supports collaboration and version control using Git.
-   * Ideal for creating structured and well-formatted documentation.
-6. [**Markdown**](https://en.wikipedia.org/wiki/Markdown)**:**
-   * Lightweight markup language for creating formatted text.
-   * Can be used with various text editors.
-   * Ideal for simplicity and compatibility across platforms.
+## [**Obsidian**](https://obsidian.md/)
+
+* Features a graph view for visualizing relationships between notes.
+* Markdown-based, with support for backlinks and bi-directional linking.
+* Local storage allows complete control over data.
+* Possibility to sync with GitHub using plugins.
+
+## [**Notion**](https://www.notion.so/)
+
+* All-in-one workspace with support for notes, databases, tasks, and collaboration.
+* Integrates databases and rich media, providing a flexible and customizable structure.
+* Suitable for both personal and team use.
+* Hosted on the cloud and not end-to-end encrypted.
+* Requires internet connectivity.
+
+## [**OneNote**](https://www.microsoft.com/en-ca/microsoft-365/onenote/digital-note-taking-app)
+
+* Microsoft's digital note-taking application.
+* Supports handwritten notes, images, and various formatting options.
+* Integrates with the Microsoft Office suite.
+* Is not optimal for embedding code snippets and code highlights
+
+## [**CherryTree**](https://github.com/giuspen/cherrytree)
+
+* Hierarchical note-taking application with rich text and syntax highlighting.
+* Features a node structure for organizing information.
+* Allows exporting to various formats including HTML and PDF.
+* open source and exists by default on kali linux
+* Risk of file corruption, as reported by many users.
+
+## [**GitBook**](https://www.gitbook.com/)
+
+* Initially designed for documentation and book writing.
+* Currently powering this website :sunglasses:
+* Supports collaboration and version control using Git.
+* Ideal for creating structured and well-formatted documentation.
+
+## [**Markdown**](https://en.wikipedia.org/wiki/Markdown)
+
+* Lightweight markup language for creating formatted text.
+* Can be used with various text editors.
+* Ideal for simplicity and compatibility across platforms.
 
 Each of these tools has its strengths and may cater to different preferences or use cases. The choice depends on individual preferences, the type of information being documented, and the desired features for organization and collaboration

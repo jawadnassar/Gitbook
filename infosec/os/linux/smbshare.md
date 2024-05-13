@@ -46,7 +46,7 @@ sudo impacket-smbserver SHARENAME -smb2support /tmp/smbshare
 ```
 
 {% hint style="info" %}
-In instances where authentication is required, utilize the `-user` and `-password` parameters&#x20;
+In instances where authentication is required, utilize the `-user` and `-password` attributes
 {% endhint %}
 
 **Step 3: Accessing the Share**

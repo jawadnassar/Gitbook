@@ -45,6 +45,10 @@ On Kali Linux, the command below should work immediately, saving you from the ab
 sudo impacket-smbserver SHARENAME -smb2support /tmp/smbshare
 ```
 
+{% hint style="info" %}
+In instances where authentication is required, utilize the `-user` and `-password` parameters&#x20;
+{% endhint %}
+
 **Step 3: Accessing the Share**
 
 From a Windows machine or another Linux system, you can now access the SMB share using the server’s IP address and the share name. For example, from a Windows Run dialog (`Win + R`), you can type:
@@ -54,10 +58,6 @@ From a Windows machine or another Linux system, you can now access the SMB share
 ```
 
 Replace `<IP_OF_KALI_MACHINE>` with the actual IP address of your Kali Linux machine.
-
-{% hint style="info" %}
-In instances where authentication is required, utilize the `-user` and `-password` parameters&#x20;
-{% endhint %}
 
 **Step 4: Using Other Impacket Tools**
 

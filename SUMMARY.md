@@ -63,6 +63,7 @@
     * [openvpn](infosec/os/linux/openvpn.md)
     * [tcpdump](infosec/os/linux/tcpdump.md)
     * [Remote Desktop](infosec/os/linux/remote-desktop.md)
+    * [SmbShare](infosec/os/linux/smbshare.md)
     * [Tmux](infosec/os/linux/tmux.md)
   * [Windows](infosec/os/windows/README.md)
     * [Macros in Office](infosec/os/windows/macros-in-office.md)

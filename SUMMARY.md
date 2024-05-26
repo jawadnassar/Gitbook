@@ -16,6 +16,7 @@
   * [Whois](infosec/information-gathering/whois.md)
   * [DNSRecon](infosec/information-gathering/dnsrecon.md)
   * [DNSenum](infosec/information-gathering/dnsenum.md)
+  * [Dirb](infosec/information-gathering/dirb.md)
   * [nslookup](infosec/information-gathering/nslookup.md)
   * [Netcat](infosec/information-gathering/netcat/README.md)
     * [Powercat](infosec/information-gathering/netcat/powercat.md)

@@ -37,6 +37,7 @@
   * [Shodan](pentesting/information-gathering/shodan.md)
   * [Gobuster](infosec/information-gathering/gobuster.md)
   * [SOC and EDRs](infosec/information-gathering/soc-and-edrs.md)
+  * [Searchsploit](infosec/information-gathering/searchsploit.md)
 * [Web Applications](infosec/web-applications/README.md)
   * [Burp Suite: Setting Foxyproxy](pentesting/web-applications/burp-suite-setting-foxyproxy.md)
   * [XSS](pentesting/web-applications/xss.md)

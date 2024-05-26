@@ -30,4 +30,5 @@ Disclaimer
 * Everything I share is solely for educational purposes and comes without any guarantee or liability. Please use the information at your own risk.
 * It is essential to refrain from conducting any pentesting activities on applications, devices, or networks that you do not own or lack permission to access.
 * The postings on this site are my own and don’t necessarily represent my employer’s positions, strategies or opinions.
+* If there is any plagiarism due to an LLM mistake, please notify me so I can address it.
 {% endhint %}

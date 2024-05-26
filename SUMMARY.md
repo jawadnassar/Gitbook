@@ -37,7 +37,6 @@
   * [Shodan](pentesting/information-gathering/shodan.md)
   * [Gobuster](infosec/information-gathering/gobuster/README.md)
     * [Dirb](infosec/information-gathering/gobuster/dirb.md)
-  * [SOC and EDRs](infosec/information-gathering/soc-and-edrs.md)
   * [Searchsploit](infosec/information-gathering/searchsploit.md)
 * [Web Applications](infosec/web-applications/README.md)
   * [Burp Suite: Setting Foxyproxy](pentesting/web-applications/burp-suite-setting-foxyproxy.md)
@@ -69,6 +68,7 @@
     * [Tmux](infosec/os/linux/tmux.md)
   * [Windows](infosec/os/windows/README.md)
     * [Macros in Office](infosec/os/windows/macros-in-office.md)
+    * [SOC and EDRs](infosec/os/windows/soc-and-edrs.md)
   * [MacOS](infosec/os/macos/README.md)
     * [Enhancing Your MacOS Terminal Experience](infosec/os/macos/enhancing-your-macos-terminal-experience.md)
 

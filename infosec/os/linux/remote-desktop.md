@@ -22,5 +22,6 @@ rdesktop
 xfreerdp
 
 ```shell-session
-kali@kali:~$ xfreerdp /u:username /p:password /v:192.168.111.222 /cert:ignore
+kali@kali:~$ xfreerdp /u:username /p:password /v:192.168.111.222 /drive:shared,/tmp /cert:ignore
 ```
+

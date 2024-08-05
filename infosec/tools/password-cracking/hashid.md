@@ -98,5 +98,5 @@ Analyzing 'hashes.txt'
 ####
 
 {% hint style="info" %}
-Make sure you don't add spaces or new lines by mistake.
+Ensure no spaces or lines are added mistakenly when copy/pasting hashes, as they can completely alter the value.
 {% endhint %}

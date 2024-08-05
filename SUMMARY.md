@@ -66,6 +66,8 @@
     * [Remote Desktop](infosec/os/linux/remote-desktop.md)
     * [SmbShare](infosec/os/linux/smbshare.md)
     * [Tmux](infosec/os/linux/tmux.md)
+    * [Convert Windows-style line endings (CRLF) to Unix-style (LF)](infosec/os/linux/convert-windows-style-line-endings-crlf-to-unix-style-lf.md)
+    * [SSH](infosec/os/linux/ssh.md)
   * [Windows](infosec/os/windows/README.md)
     * [Macros in Office](infosec/os/windows/macros-in-office.md)
     * [SOC and EDRs](infosec/os/windows/soc-and-edrs.md)

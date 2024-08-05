@@ -1,21 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1504711331083-9c895941bf81?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxpbmZvcm1hdGlvbiUyMHxlbnwwfHx8fDE3MDAzNjgxMjl8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1504711331083-9c895941bf81?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxjbGFzc2lmaWVkfGVufDB8fHx8MTcyMjgyNDk2NHww&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Information Gathering

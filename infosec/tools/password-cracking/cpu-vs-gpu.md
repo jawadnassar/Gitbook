@@ -67,9 +67,6 @@ When it comes to password cracking, both CPUs and GPUs have their own advantages
 
 **Comparison Summary**
 
-\
-
-
 | Feature           | CPU                                | GPU                              |
 | ----------------- | ---------------------------------- | -------------------------------- |
 | **Speed**         | Slower, but good for complex tasks | Much faster for repetitive tasks |

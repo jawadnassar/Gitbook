@@ -67,7 +67,16 @@ When it comes to password cracking, both CPUs and GPUs have their own advantages
 
 **Comparison Summary**
 
-<table data-full-width="true"><thead><tr><th>Feature</th><th>CPU</th><th>GPU</th></tr></thead><tbody><tr><td><strong>Speed</strong></td><td>Slower, but good for complex tasks</td><td>Much faster for repetitive tasks</td></tr><tr><td><strong>Flexibility</strong></td><td>High</td><td>Medium</td></tr><tr><td><strong>Cost</strong></td><td>Lower for small-scale tasks</td><td>Higher due to hardware costs</td></tr><tr><td><strong>Tool Examples</strong></td><td>John the Ripper, Hydra</td><td>Hashcat, oclHashcat</td></tr><tr><td><strong>Best For</strong></td><td>Complex logic, small-scale tasks</td><td>High-speed, large-scale cracking</td></tr></tbody></table>
+\
+
+
+| Feature           | CPU                                | GPU                              |
+| ----------------- | ---------------------------------- | -------------------------------- |
+| **Speed**         | Slower, but good for complex tasks | Much faster for repetitive tasks |
+| **Flexibility**   | High                               | Medium                           |
+| **Cost**          | Lower for small-scale tasks        | Higher due to hardware costs     |
+| **Tool Examples** | John the Ripper, Hydra             | Hashcat, oclHashcat              |
+| **Best For**      | Complex logic, small-scale tasks   | High-speed, large-scale cracking |
 
 #### Practical Examples
 

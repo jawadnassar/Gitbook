@@ -29,4 +29,3 @@ Hi, I’m Jawad! I’ve been immersed in software and computers for most of my l
 * [GitHub](https://github.com/jawadnassar)
 * [Mastodon](https://infosec.exchange/@jawad)
 * [LinkedIn](https://www.linkedin.com/in/jawadnassar/)
-* **Email:** jawad \[at] jawad \[dot] ca

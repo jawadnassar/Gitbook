@@ -28,4 +28,4 @@ If you found the tutorial helpful and enjoyed it, consider showing your support 
 
 I also recommend watching the following YouTube videos where the blog author is [interviewed](https://www.youtube.com/watch?v=p9RsKDIGKvc) and Gerald Auger [walks through](https://www.youtube.com/watch?v=oOzihldLz7U) the above series.
 
-{% embed url="https://www.youtube.com/watch?v=oOzihldLz7U" %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oOzihldLz7U?si=ESeRQpaHMcCCzoFW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

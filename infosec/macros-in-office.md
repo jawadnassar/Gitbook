@@ -1,4 +1,4 @@
-# Macros in Office
+# 🖥️ Macros in Office
 
 Macros are a powerful feature primarily used in Microsoft Office applications like Word, Excel, and Access. They are designed to automate repetitive tasks by executing a series of commands and functions embedded within a document. While macros can greatly increase productivity, they can also be exploited to deliver malware, including ransomware and backdoors.
 

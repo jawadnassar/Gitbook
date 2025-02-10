@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Enhancing Your MacOS Terminal Experience
+# 🍎 Enhancing Your MacOS Terminal Experience
 
 ## Enhancing Your MacOS Terminal Experience with iTerm2
 
@@ -52,7 +52,7 @@ brew install --cask iterm2
 6. Select your downloaded `.itermcolors` file.
 7. Once imported, select it from the list of Color Presets.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 4: Install Oh My Zsh**
 
@@ -142,7 +142,7 @@ source ~/.zshrc
 
 Et voilà!&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Reference:
 

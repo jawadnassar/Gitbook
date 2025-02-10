@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# PortSwigger
+# 🚩 CTF
 
 This section contains write-ups of different [PortSwigger Web Security Academy](https://portswigger.net/web-security/all-topics) Capture the Flag challenges
 

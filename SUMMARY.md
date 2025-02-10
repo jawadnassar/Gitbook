@@ -1,13 +1,8 @@
 # Table of contents
 
-## 👾 Welcome!
-
-* [Hello, World!](README.md)
-* [whoami](welcome/whoami.md)
-* [License](LICENSE.md)
-
 ## 👨‍🏫 INFOSEC
 
+* [👾 Hello, World!](README.md)
 * [Security Standards](infosec/security-standards/README.md)
   * [The CIA Triad](infosec/security-standards/the-cia-triad.md)
   * [Standard & Frameworks](infosec/security-standards/standard-and-frameworks.md)
@@ -80,15 +75,12 @@
     * [SOC and EDRs](infosec/os/windows/soc-and-edrs.md)
   * [MacOS](infosec/os/macos/README.md)
     * [Enhancing Your MacOS Terminal Experience](infosec/os/macos/enhancing-your-macos-terminal-experience.md)
-
-## 🚩 CTF
-
-* [PortSwigger](ctf/portswigger/README.md)
-  * [SQL Injection](ctf/portswigger/sql-injection/README.md)
-    * [WHERE clause allowing retrieval of hidden data](ctf/portswigger/sql-injection/where-clause-allowing-retrieval-of-hidden-data.md)
-    * [Allowing login bypass](ctf/portswigger/sql-injection/allowing-login-bypass.md)
-    * [UNION attack, determining the number of columns returned by the query](ctf/portswigger/sql-injection/union-attack-determining-the-number-of-columns-returned-by-the-query.md)
-    * [UNION attack, finding a column containing text](ctf/portswigger/sql-injection/union-attack-finding-a-column-containing-text.md)
-    * [UNION attack, retrieving data from other tables](ctf/portswigger/sql-injection/union-attack-retrieving-data-from-other-tables.md)
-    * [UNION attack, retrieving multiple values in a single column](ctf/portswigger/sql-injection/union-attack-retrieving-multiple-values-in-a-single-column.md)
-    * [Querying the database type and version on Oracle](ctf/portswigger/sql-injection/querying-the-database-type-and-version-on-oracle.md)
+* [🚩 CTF](infosec/portswigger/README.md)
+  * [SQL Injection](infosec/portswigger/sql-injection/README.md)
+    * [WHERE clause allowing retrieval of hidden data](infosec/portswigger/sql-injection/where-clause-allowing-retrieval-of-hidden-data.md)
+    * [Allowing login bypass](infosec/portswigger/sql-injection/allowing-login-bypass.md)
+    * [UNION attack, determining the number of columns returned by the query](infosec/portswigger/sql-injection/union-attack-determining-the-number-of-columns-returned-by-the-query.md)
+    * [UNION attack, finding a column containing text](infosec/portswigger/sql-injection/union-attack-finding-a-column-containing-text.md)
+    * [UNION attack, retrieving data from other tables](infosec/portswigger/sql-injection/union-attack-retrieving-data-from-other-tables.md)
+    * [UNION attack, retrieving multiple values in a single column](infosec/portswigger/sql-injection/union-attack-retrieving-multiple-values-in-a-single-column.md)
+    * [Querying the database type and version on Oracle](infosec/portswigger/sql-injection/querying-the-database-type-and-version-on-oracle.md)

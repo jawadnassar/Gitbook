@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Hello, World!
+# 👾 Hello, World!
 
 Welcome to my corner on the internet! This site serves as my digital book, primarily housing my  random tech notes, documenting my learning journey to pivot further into application security. I hope it proves useful to someone else as well!
 

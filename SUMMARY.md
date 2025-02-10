@@ -3,11 +3,6 @@
 ## 👨‍🏫 INFOSEC
 
 * [👾 Hello, World!](README.md)
-* [Security Standards](infosec/security-standards/README.md)
-  * [The CIA Triad](infosec/security-standards/the-cia-triad.md)
-  * [Standard & Frameworks](infosec/security-standards/standard-and-frameworks.md)
-  * [Report Writing Tools](infosec/security-standards/report-writing-tools.md)
-  * [Information Gathering](infosec/security-standards/information-gathering.md)
 * [Tools](infosec/tools/README.md)
   * [Whois](infosec/tools/whois.md)
   * [DNSRecon](infosec/tools/dnsrecon.md)

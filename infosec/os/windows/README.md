@@ -4,5 +4,5 @@ cover: >-
 coverY: 0
 ---
 
-# Windows
+# 🖥️ Windows
 

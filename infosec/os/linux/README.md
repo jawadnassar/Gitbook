@@ -18,6 +18,6 @@ layout:
     visible: true
 ---
 
-# Linux
+# 🐧 Linux
 
 This section contains useful Linux related commands
